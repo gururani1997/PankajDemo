@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PankajDemo</string>
+    <string name="txtError">This field can\'t be empty.</string>
+    <string name="txtErrorTwo">Please Enter your name</string>
+    <string name="reset">Reset</string>
+</resources>
